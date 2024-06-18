@@ -58,9 +58,9 @@ Displayed the best-fit line indicating the linear relationship between hours stu
 Visualized how the model's performance evolves with the addition of training examples.
 
 ### Metrics and Evaluation
-Mean Absolute Error (MAE): 4.18
-Mean Squared Error (MSE): 21.60
-R-squared: 0.945
+* Mean Absolute Error (MAE): 4.18
+* Mean Squared Error (MSE): 21.60
+* R-squared: 0.945
 
 
 ## Conclusion
